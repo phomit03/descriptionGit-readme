@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **SASS and Javascript**
 
-- 📫 How to reach me **baits16@gmail.com**
+- 📫 How to reach me **nxuanthao03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
