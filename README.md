@@ -11,9 +11,9 @@
 
 - 🌱 Right now, i'm learning **HCJS, Angular, C#, Java and PhP**
 
-- 🤝 I’m looking for help with **React Portal and Firebase**
+- 🤝 I’m looking for help with **React, Spring, Angular**
 
-- 💬 Ask me about **SASS and Javascript**
+- 💬 Ask me about **HCJS, PhP and Java**
 
 - 📫 How to reach me **nxuanthao03@gmail.com**
 
